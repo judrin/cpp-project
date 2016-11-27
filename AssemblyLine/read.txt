@@ -1,0 +1,4 @@
+This is an assembly line project, 
+which fulfils customer orders using processors that 
+perform tasks of adding and removing specific items 
+according to customer specifications and quality control inspections.
