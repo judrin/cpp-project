@@ -1,9 +1,4 @@
 #pragma once
-// Milestone 1 - Utilities Interface
-// Utilities.h
-// Chris Szalwinski
-// v1.0 - 24/10/2015
-// v2.0 - 23/02/2016
 #include <string>
 #include <fstream>
 
