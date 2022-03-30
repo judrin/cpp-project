@@ -1,8 +1,4 @@
-// Assembly Line Milestone - Main Program
-// Milestome_4.cpp
-// Chris Szalwinski
-// v1.0 - 30/11/2015
-// v2.0 - 15/01/2016
+// Assembly Line - Main Program
 #include <iostream>
 #include <fstream>
 #include <string>
